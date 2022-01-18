@@ -26,3 +26,7 @@ Tips
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
 # LemonadeApp
+<img src="https://i.imgur.com/OvGC11B.png" alt="three" width="500"/>
+<img src="https://i.imgur.com/RlrBlwq.png" alt="lemon" width="500"/>
+<img src="https://i.imgur.com/FZsNt3C.png" alt="drink lemonade" width="500"/>
+<img src="https://i.imgur.com/CLmFhZE.png" alt="empty glass" width="500"/>
